@@ -9,3 +9,5 @@ now I'm adding another change
 
 
 practice again
+
+now I'm editing from the command line
